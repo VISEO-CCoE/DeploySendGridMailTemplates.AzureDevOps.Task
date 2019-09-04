@@ -2,7 +2,8 @@
     "manifestVersion": 1,
     "id": "VISEO-Group-DeploySendGridMailTemplates",
     "name": "Deploy SendGrid Mail Templates",
-    "version": "0.1.0",
+    "version": "1.0.0",
+    "public": true,
     "publisher": "VISEO-Group",
     "targets": [
         {
@@ -38,7 +39,7 @@
         }
     },
     "icons": {
-        "default": "deploySendGridMailTemplates/icon.png"        
+        "default": "icon.png"        
     },
     "files": [
         {
